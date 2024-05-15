@@ -1,0 +1,42 @@
+.grid{
+  border: 1px solid black;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.grid div {  
+  height: 30px;
+  width: 30px;
+  border: 0.2px solid black;
+}
+
+.ending-block{
+background-color: blue;
+}
+
+.starting-block{
+  background-color: lightcoral;
+}
+
+.l4,.l5{
+  background-color: lightskyblue;
+}
+
+.c2,.c3{
+  background-color: lightgrey;
+}
+
+.frog{
+  background-color: green;
+  border-radius: 50% ;
+}
+
+.l1, .l2, .l3{
+background-color: darkblue;
+}
+
+.c1{
+  background-color: darkolivegreen;
+}
